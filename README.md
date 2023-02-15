@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enigma522
-- 👀 I’m interested in Front-End development, Software development ...
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in Front-End and back-end development, Software development ...
+- 🌱 CTF player
 - 💞️ I’m looking to collaborate on a smal project
 
 
