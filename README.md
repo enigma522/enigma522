@@ -21,8 +21,6 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 
-### Cyber
-
 ### Database Technologies
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
