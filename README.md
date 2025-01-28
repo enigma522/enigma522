@@ -21,6 +21,8 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 
+### Cyber
+
 ### Database Technologies
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
@@ -42,15 +44,11 @@
 
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
 
 
 ### Backend Development
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-e0234e?logo=nestjs&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
