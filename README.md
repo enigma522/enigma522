@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enigma522
-- 👀 I’m interested in Front-End and back-end development, Software development ...
+- 👀 I’m interested in  Software development, Cybersecurity ...
 - 🌱 CTF player
 - 💞️ I’m looking to collaborate
 
