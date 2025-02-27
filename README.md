@@ -31,22 +31,9 @@
 
 ### Version Control & CI/CD
 
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)
 ![GitLab CI](https://img.shields.io/badge/ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab)
 
-### Frontend Development
-
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-
-
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?&logo=fastapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-e0234e?logo=nestjs&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
