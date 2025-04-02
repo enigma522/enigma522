@@ -37,6 +37,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/enigma522.png" alt="Your Image Badge" />
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=637493" style='border:none;'></iframe>
 
