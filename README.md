@@ -27,15 +27,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 
 ### Version Control & CI/CD
 
 ![GitLab CI](https://img.shields.io/badge/ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/enigma522.png" alt="Your Image Badge" />
 
