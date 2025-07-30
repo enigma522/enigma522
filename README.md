@@ -9,13 +9,13 @@
 
 ---
 
-## 🖥️ Operating Systems
+## Operating Systems
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 
 ---
 
-## 🧑‍💻 Programming Languages
+## Programming Languages
 
 ![C](https://img.shields.io/badge/C-000?&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🗄️ Databases
+## Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&logo=mongodb)
@@ -36,7 +36,7 @@
 
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-000?&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
@@ -45,6 +45,6 @@
 
 ---
 
-## 🛡️ Platforms
+## Platforms
 
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/enigma522.png)
