@@ -8,13 +8,11 @@ Personal Website: [enigma522.online](https://enigma522.online/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=enigma522)
 
----
 
 ## Operating Systems
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 
----
 
 ## Programming Languages
 
@@ -26,7 +24,6 @@ Personal Website: [enigma522.online](https://enigma522.online/)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?&logo=TypeScript)
 ![PHP](https://img.shields.io/badge/PHP-000?&logo=php)
 
----
 
 ## Databases
 
@@ -35,7 +32,6 @@ Personal Website: [enigma522.online](https://enigma522.online/)
 ![MySQL](https://img.shields.io/badge/MySQL-000?&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-000?&logo=sqlite)
 
----
 
 ## Tools & Technologies
 
@@ -44,7 +40,6 @@ Personal Website: [enigma522.online](https://enigma522.online/)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
 
----
 
 ## Platforms
 
