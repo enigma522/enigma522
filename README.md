@@ -16,6 +16,8 @@ Personal Website: [enigma522.online](https://enigma522.online/)
 
 ## Programming Languages
 
+
+![go](https://img.shields.io/badge/Go-000?&logo=golang&logoColor=white)
 ![C](https://img.shields.io/badge/C-000?&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000?logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000?&logo=Python)
