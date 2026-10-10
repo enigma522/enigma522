@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @enigma522
 
-🎯 I’m a software engineering student passionate about **cybersecurity** and **software development**.  
+🎯 I’m a software engineer passionate about **cybersecurity** and **software development**.  
 🧠 I enjoy learning by building tools and participating in **CTFs**.
 
 Personal Website: [enigma522.online](https://enigma522.github.io/)  
